@@ -82,7 +82,8 @@
 
 ### Estadísticas en GitHub
 
+### Estadísticas en GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axioos&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axioos&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axioos&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
