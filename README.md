@@ -79,7 +79,7 @@
 
 ### Tech Stack
 
-**Lenguajes de Programación**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -88,7 +88,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-**Frontend & Backend Web**
+**Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -97,7 +97,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Bases de Datos, Cloud & Infraestructura**
+**Databases, Cloud & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -106,7 +106,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**IA, Datos, Hardware & Herramientas**
+**AI, Hardware & Tools**
 
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -117,28 +117,7 @@
 
 ---
 
-### Áreas de Experiencia y Proyectos
-
-**Desarrollo Web Full-Stack y APIs** | *React, Node.js, TypeScript, Docker, Vercel*
-* Desarrollo de plataformas web con frontend interactivo, autenticación por roles y lógica de servidor mediante APIs REST.
-* Configuración de entornos multicontenedor con Docker y despliegues en Vercel y servidores remotos vía SSH.
-* Trabajo colaborativo bajo metodología ágil Scrum, gestionando versiones mediante Sprints y revisiones de código.
-
-**Inteligencia Artificial y Automatización** | *Python, APIs LLMs, Web Scraping*
-* Integración de modelos de lenguaje mediante APIs (Claude, Gemini, DeepSeek, NVIDIA) y desarrollo de agentes para automatización de tareas.
-* Implementación de scripts de Web Scraping para extracción y procesamiento estructurado de datos.
-
-**Optimización y Modelado de Bases de Datos** | *PostgreSQL, MySQL, SQL*
-* Diseño e implementación de modelos relacionales y migraciones para gestión estructurada de información.
-* Optimización de rendimiento en consultas SQL complejas.
-
-**Sistemas, Algoritmos y Hardware** | *C++, Arduino, ESP32*
-* Programación de algoritmos de compresión de datos y construcción de un simulador básico de Sistema Operativo con gestión a bajo nivel.
-* Desarrollo de soluciones integrando hardware mediante microcontroladores.
-
----
-
-### Estadísticas en GitHub
+### GitHub stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axioos&theme=github_dark" alt="GitHub Profile Details" />
