@@ -44,7 +44,7 @@
 <br />
 
 <details>
-<summary><b>Versión en Español (Haz clic para desplegar)</b></summary>
+<summary><b>Versión en Español </b></summary>
 <br />
 
 ### Sobre Mí
