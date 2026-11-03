@@ -82,8 +82,6 @@
 
 ### Estadísticas en GitHub
 
-### Estadísticas en GitHub
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axioos&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axioos&theme=github_dark" alt="GitHub Profile Details" />
 </div>
