@@ -1,21 +1,79 @@
 <div align="center">
   <h1>Andrés Seguel Bravo</h1>
-  <h3>Estudiante de Ingeniería Civil Informática | Desarrollador Full-Stack</h3>
-  <p><i>Enfocado en arquitectura de software limpia, desarrollo web full-stack, integración de IA e infraestructura con contenedores.</i></p>
+  <h3>Computer Science Engineering Student | Full-Stack Developer</h3>
+  <p><i>Focused on clean software architecture, full-stack web development, AI integration, and containerized infrastructure.</i></p>
   
   <a href="mailto:andresseguelbravo@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-andresseguelbravo%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact-andresseguelbravo%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <hr />
 
+<details open>
+<summary><b>English Version</b></summary>
+<br />
+
+### About Me
+
+* Computer Science Engineering student at **Universidad Austral de Chile (UACh)** (2021 - Present).
+* Experience in **Full-Stack** web development, **REST API** design, relational database modeling, and containerized deployment with **Docker**.
+* Implementation of automation workflows and intelligent agents integrating **LLM APIs** (Claude, Gemini, DeepSeek, NVIDIA).
+* Solid foundation in algorithms, low-level programming in **C++**, and hardware integration (**ESP32 / Arduino**).
+
+### Experience & Projects
+
+**Full-Stack Web Development & APIs** | *React, Node.js, TypeScript, Docker, Vercel*
+* Developed web platforms featuring interactive frontends, role-based authentication, and server-side logic via REST APIs.
+* Configured multi-container environments using Docker and executed remote deployments via SSH and Vercel.
+* Worked collaboratively under the Scrum agile framework, managing source control through sprints and code reviews.
+
+**Artificial Intelligence & Automation** | *Python, LLM APIs, Web Scraping*
+* Integrated language models via APIs (Claude, Gemini, DeepSeek, NVIDIA) to build custom automated agents.
+* Implemented web scraping pipelines for structured data extraction and processing.
+
+**Database Modeling & Optimization** | *PostgreSQL, MySQL, SQL*
+* Designed and implemented relational schemas, migrations, and performance optimizations for complex SQL queries.
+
+**Systems, Algorithms & Hardware** | *C++, Arduino, ESP32*
+* Implemented data compression algorithms and built an operating system scheduler simulation with low-level process management.
+* Developed embedded systems integrating microcontrollers and external peripherals.
+
+</details>
+
+<br />
+
+<details>
+<summary><b>Versión en Español (Haz clic para desplegar)</b></summary>
+<br />
+
 ### Sobre Mí
 
 * Estudiante de Ingeniería Civil Informática en la **Universidad Austral de Chile (UACh)** (2021 - Presente).
-* Experiencia en desarrollo web **Full-Stack**, diseño de **APIs REST**, modelado de bases de datos relacionales y despliegue mediante **Docker**.
+* Experiencia en desarrollo web **Full-Stack**, diseño de **APIs REST**, modelado de bases de datos relacionales y despliegue con **Docker**.
 * Desarrollo de soluciones de automatización y agentes inteligentes integrando APIs de **LLMs** (Claude, Gemini, DeepSeek, NVIDIA).
 * Sólidos fundamentos en algoritmos, programación a bajo nivel en **C++** e integración con hardware (**ESP32 / Arduino**).
+
+### Áreas de Experiencia y Proyectos
+
+**Desarrollo Web Full-Stack y APIs** | *React, Node.js, TypeScript, Docker, Vercel*
+* Desarrollo de plataformas web con frontend interactivo, autenticación por roles y lógica de servidor mediante APIs REST.
+* Configuración de entornos multicontenedor con Docker y despliegues en Vercel y servidores remotos vía SSH.
+* Trabajo colaborativo bajo metodología ágil Scrum, gestionando versiones mediante Sprints y revisiones de código.
+
+**Inteligencia Artificial y Automatización** | *Python, APIs LLMs, Web Scraping*
+* Integración de modelos de lenguaje mediante APIs (Claude, Gemini, DeepSeek, NVIDIA) y desarrollo de agentes para automatización de tareas.
+* Implementación de scripts de Web Scraping para extracción y procesamiento estructurado de datos.
+
+**Optimización y Modelado de Bases de Datos** | *PostgreSQL, MySQL, SQL*
+* Diseño e implementación de modelos relacionales y migraciones para gestión estructurada de información.
+* Optimización de rendimiento en consultas SQL complejas.
+
+**Sistemas, Algoritmos y Hardware** | *C++, Arduino, ESP32*
+* Programación de algoritmos de compresión de datos y construcción de un simulador básico de Sistema Operativo con gestión a bajo nivel.
+* Desarrollo de soluciones integrando hardware mediante microcontroladores.
+
+</details>
 
 ---
 
